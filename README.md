@@ -30,7 +30,6 @@ An interactive command-line application designed for browsing showtimes, inspect
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/](https://github.com/){your-username}/{your-repo-name}.git
-
-&#x20;  cd {your-repo-name}
+&#x20;  git clone \[https://github.com/keshav2428/terminal-ticket-system]
+&#x20;  cd {terminal-ticket-system}
 
