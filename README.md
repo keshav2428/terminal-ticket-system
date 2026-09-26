@@ -26,7 +26,7 @@ An interactive command-line application designed for browsing showtimes, inspect
 
 \## Installation \& Setup
 
-1\. Clone the repository:                                                                                                                                          **Author:** Keshav Saini  
+1\. Clone the repository: /n                                                                                                                                         **Author:** Keshav Saini  
 **Registration Number:** 26MEI10046  
 **Course:** Python Essentials  
 
